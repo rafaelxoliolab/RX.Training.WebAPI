@@ -68,4 +68,21 @@ namespace Web.API.Learning.Controllers
 ### Adding DI for DbContext
 <img width="883" height="386" alt="image" src="https://github.com/user-attachments/assets/7a2c3ebf-f23a-4472-b82c-bd4adce22723" />
 
+### Run Migrations
+
+<img width="439" height="314" alt="image" src="https://github.com/user-attachments/assets/87351d17-b6b9-4e5b-b818-79da2e6a51b5" />
+
+<img width="403" height="242" alt="image" src="https://github.com/user-attachments/assets/580a1c7b-839d-48d1-882e-4eed5d3395c2" />
+
+<img width="896" height="382" alt="image" src="https://github.com/user-attachments/assets/b09c5e7f-1339-47ed-8942-249bd081a564" />
+
+<img width="195" height="68" alt="image" src="https://github.com/user-attachments/assets/a517f09c-7ac7-46d1-b473-d559f7809827" />
+
+<img width="262" height="215" alt="image" src="https://github.com/user-attachments/assets/48caacca-e649-4a03-a3ea-a9701f5c1cb3" />
+
+
+
+
+
+
 
