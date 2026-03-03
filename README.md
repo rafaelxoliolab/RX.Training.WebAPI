@@ -43,9 +43,16 @@ namespace Web.API.Learning.Controllers
     }
 }
 
-``
+```
 
 ### Testing
+
+<img width="842" height="513" alt="image" src="https://github.com/user-attachments/assets/a1c5922e-2edc-4da5-8497-c29511601628" />
+
 <img width="641" height="338" alt="image" src="https://github.com/user-attachments/assets/14e796a7-28f8-4767-98ef-052ac1ff44f2" />
+
+## Adding Packages
+
+<img width="382" height="514" alt="image" src="https://github.com/user-attachments/assets/5faa2648-bca5-4576-89a0-10e9cb5d850e" />
 
 
